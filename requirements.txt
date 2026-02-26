@@ -1,0 +1,17 @@
+# Core ML frameworks
+torch>=2.0.0
+transformers>=4.35.0
+
+# Streamlit for dashboard
+streamlit>=1.29.0
+
+# Visualization
+plotly>=5.18.0
+kaleido>=0.2.1
+
+# Data processing
+pandas>=2.1.0
+numpy<2
+
+# Ollama integration (optional - for local agent)
+ollama>=0.1.0
